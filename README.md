@@ -1,7 +1,6 @@
 # Hi, I'm Chitransh 👋
 
-💡 I learn by building and improving what I know.
-
+💡 I learn by building and improving.
 ---
 
 ## 🧩 What I'm working on
@@ -11,7 +10,6 @@
 - Agentic systems  
 - Scaling & concurrency  
 
-I focus on getting things working, then understanding them properly.
 
 ---
 
