@@ -11,6 +11,8 @@
 - Scaling & concurrency  
 
 
+My Portfolio site:https://portfolio-frontend-lygp.vercel.app/
+
 ---
 
 ## 🔨 Projects
