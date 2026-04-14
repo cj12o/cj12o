@@ -1,23 +1,29 @@
-# Hi, I'm Chitransh 👋
+<div align="center">
 
-💡 I learn by building and improving.
+# 👋 Hi, I'm Chitransh
+
+### Building intelligent systems through code
+
+[Portfolio](https://portfolio-frontend-sage-ten.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/chitransh-jain-71bbb3336/) • [Email](jchitransh5@gmail.com)
+
+</div>
+
 ---
 
-## 🧩 What I'm working on
-- Machine learning & deep learning  
-- NLP (embeddings, transformers, vector search)  
-- Python backends (FastAPI, Django)  
-- Agentic systems  
-- Scaling & concurrency  
+## 🚀 About Me
 
+I'm a developer focused on **machine learning** and **backend systems**. I learn by building real projects and constantly pushing my understanding of AI, data, and scalable architectures.
 
-My Portfolio site:https://portfolio-frontend-sage-ten.vercel.app/
+**Current focus:**
+- Machine Learning & Deep Learning
+- Python backends (FastAPI, Django)
+- Agentic AI systems
+- Scaling & concurrency patterns
+
 ---
+## 🛠️ Tech Stack
 
-## 🔨 Projects
-- Agentic chatrooms  
-- RAG-based chatbot  
-
+**Languages & Frameworks**
 ---
 
 ## ⚙️ Tech I use
@@ -40,8 +46,15 @@ My Portfolio site:https://portfolio-frontend-sage-ten.vercel.app/
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  
 </p>
 
 ---
+<div align="center">
 
-🌱 I'm still learning, but I'm consistent and finish what I start.
+### 💡 *"I learn by building. I grow by shipping."*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge)](https://portfolio-frontend-sage-ten.vercel.app/)
+
+</div>
