@@ -55,6 +55,6 @@ I'm a developer focused on **machine learning** and **backend systems**. I learn
 
 ### 💡 *"I learn by building. I grow by shipping."*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge)](https://portfolio-frontend-sage-ten.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge)](https://portfolio-cyan-five-62.vercel.app/)
 
 </div>
