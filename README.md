@@ -4,7 +4,7 @@
 
 ### Building intelligent systems through code
 
-[Portfolio](https://portfolio-frontend-sage-ten.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/chitransh-jain-71bbb3336/) • [Email](jchitransh5@gmail.com)
+[Portfolio](https://portfolio-cyan-five-62.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/chitransh-jain-71bbb3336/) • [Email](jchitransh5@gmail.com)
 
 </div>
 
